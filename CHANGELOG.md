@@ -1,0 +1,1 @@
+v1.0 - 19.02.2025 - Remade the GitHub Repository and re-added the first two pieces of homework due to anonimity issues.
