@@ -21,22 +21,21 @@ Click on the potion icon to heal.
 ------------------------------
 
 CREDITS:
-----------
+
 Background art:
 https://www.artstation.com/artwork/8BBnzn
-----------
+
 Character assets and animations:
 https://sventhole.itch.io/hero-knight
 https://sventhole.itch.io/bandits
-----------
+
 Icons:
 https://shikashipx.itch.io/shikashis-fantasy-icons-pack
-----------
+
 Music:
 https://elevenlabs.io/music/solo-piano - Menu
 https://madmakingmistery.itch.io/last-battle - Combat
 https://madmakingmistery.itch.io/hero-rests-after-victory - Victory
 https://madmakingmistery.itch.io/bad-ending - Defeat
-----------
 
 ------------------------------
